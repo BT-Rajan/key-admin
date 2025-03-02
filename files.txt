@@ -1,0 +1,29 @@
+Folder PATH listing
+Volume serial number is B81D-3559
+C:.
+¦   files.txt
+¦   
++---css
+¦       styles.css
+¦       
++---includes
+¦       db.php
+¦       footer.php
+¦       header.php
+¦       
++---js
+¦       scripts.js
+¦       
++---pages
+        accounts.php
+        api_keys.php
+        dashboard.php
+        delete_account.php
+        delete_api_key.php
+        edit_account.php
+        edit_api_key.php
+        login.php
+        logout.php
+        profile.php
+        reports.php
+        
